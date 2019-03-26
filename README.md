@@ -1,2 +1,2 @@
-# portfolio
-My portfolio for showcasing my Resume..
+# Portfolio
+### My portfolio for showcasing my Resume..
