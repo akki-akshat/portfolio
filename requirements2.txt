@@ -1,0 +1,11 @@
+Django
+djongo
+mongoengine
+pymongo
+pyOpenSSL
+pyparsing
+pytest
+python-dateutil
+gunicorn
+django-heroku
+psycopg2-binary
