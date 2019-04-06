@@ -1,0 +1,74 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+0001_initial.py	../portfolio/migrations/0001_initial.py	1;"	kind:file	line:1
+ALLOWED_HOSTS	../MainApp/settings.py	/^ALLOWED_HOSTS = []$/;"	kind:variable	line:29
+AUTH_PASSWORD_VALIDATORS	../MainApp/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	kind:variable	line:108
+AppConfig	../portfolio/apps.py	/^from django.apps import AppConfig$/;"	kind:namespace	line:1
+BASE_DIR	../MainApp/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:17
+DATABASES	../MainApp/settings.py	/^DATABASES = {$/;"	kind:variable	line:88
+DEBUG	../MainApp/settings.py	/^DEBUG = True$/;"	kind:variable	line:27
+HttpResponse	../portfolio/views.py	/^from django.http import HttpResponse$/;"	kind:namespace	line:2
+INSTALLED_APPS	../MainApp/settings.py	/^INSTALLED_APPS = [$/;"	kind:variable	line:34
+LANGUAGE_CODE	../MainApp/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	kind:variable	line:127
+MIDDLEWARE	../MainApp/settings.py	/^MIDDLEWARE = [$/;"	kind:variable	line:44
+Migration	../portfolio/migrations/0001_initial.py	/^class Migration(migrations.Migration):$/;"	kind:class	line:6
+PROJECT_ROOT	../MainApp/settings.py	/^PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))$/;"	kind:variable	line:141
+Paths	../portfolio/models.py	/^class Paths(models.Model):$/;"	kind:class	line:5
+PortfolioConfig	../portfolio/apps.py	/^class PortfolioConfig(AppConfig):$/;"	kind:class	line:4
+ROOT_URLCONF	../MainApp/settings.py	/^ROOT_URLCONF = 'MainApp.urls'$/;"	kind:variable	line:54
+SECRET_KEY	../MainApp/settings.py	/^SECRET_KEY = 'm)-+p-xf$&xw8@(31%%zka30@o@c%%mt7hsz!my4-inf&#46m9'$/;"	kind:variable	line:24
+STATIC_ROOT	../MainApp/settings.py	/^STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static")$/;"	kind:variable	line:143
+STATIC_URL	../MainApp/settings.py	/^STATIC_URL = '\/static\/'$/;"	kind:variable	line:142
+TEMPLATES	../MainApp/settings.py	/^TEMPLATES = [$/;"	kind:variable	line:56
+TIME_ZONE	../MainApp/settings.py	/^TIME_ZONE = 'UTC'$/;"	kind:variable	line:129
+TestCase	../portfolio/tests.py	/^from django.test import TestCase$/;"	kind:namespace	line:1
+USE_I18N	../MainApp/settings.py	/^USE_I18N = True$/;"	kind:variable	line:131
+USE_L10N	../MainApp/settings.py	/^USE_L10N = True$/;"	kind:variable	line:133
+USE_TZ	../MainApp/settings.py	/^USE_TZ = True$/;"	kind:variable	line:135
+WSGI_APPLICATION	../MainApp/settings.py	/^WSGI_APPLICATION = 'MainApp.wsgi.application'$/;"	kind:variable	line:72
+__init__.py	../MainApp/__init__.py	1;"	kind:file	line:1
+__init__.py	../portfolio/__init__.py	1;"	kind:file	line:1
+__init__.py	../portfolio/migrations/__init__.py	1;"	kind:file	line:1
+admin	../MainApp/urls.py	/^from django.contrib import admin$/;"	kind:namespace	line:16
+admin	../portfolio/admin.py	/^from django.contrib import admin$/;"	kind:namespace	line:1
+admin.py	../portfolio/admin.py	1;"	kind:file	line:1
+application	../MainApp/wsgi.py	/^application = get_wsgi_application()$/;"	kind:variable	line:16
+application	../portfolio/wsgi.py	/^application = get_wsgi_application()/;"	kind:variable	line:14
+apps.py	../portfolio/apps.py	1;"	kind:file	line:1
+dependencies	../portfolio/migrations/0001_initial.py	/^    dependencies = [$/;"	kind:variable	line:10
+django_heroku	../MainApp/settings.py	/^import django_heroku$/;"	kind:namespace	line:14
+execute_from_command_line	../manage.py	/^        from django.core.management import execute_from_command_line$/;"	kind:namespace	line:8
+fields	../portfolio/migrations/0001_initial.py	/^            fields=[$/;"	kind:variable	line:16
+get_wsgi_application	../MainApp/wsgi.py	/^from django.core.wsgi import get_wsgi_application$/;"	kind:namespace	line:12
+get_wsgi_application	../portfolio/wsgi.py	/^from django.core.wsgi import get_wsgi_application$/;"	kind:namespace	line:12
+index	../MainApp/urls.py	/^from portfolio.views import index$/;"	kind:namespace	line:18
+index	../portfolio/views.py	/^def index(request):$/;"	kind:function	line:5
+initial	../portfolio/migrations/0001_initial.py	/^    initial = True$/;"	kind:variable	line:8
+manage.py	../manage.py	1;"	kind:file	line:1
+migrations	../portfolio/migrations/0001_initial.py	/^from django.db import migrations, models$/;"	kind:namespace	line:3
+models	../portfolio/migrations/0001_initial.py	/^from django.db import migrations, models$/;"	kind:namespace	line:3
+models	../portfolio/models.py	/^from django.db import models$/;"	kind:namespace	line:1
+models.py	../portfolio/models.py	1;"	kind:file	line:1
+name	../portfolio/apps.py	/^    name = 'portfolio'$/;"	kind:variable	line:5
+name	../portfolio/migrations/0001_initial.py	/^            name='Paths',$/;"	kind:variable	line:15
+name	../portfolio/models.py	/^    name = models.CharField(max_length=200)$/;"	kind:variable	line:6
+operations	../portfolio/migrations/0001_initial.py	/^    operations = [$/;"	kind:variable	line:13
+os	../MainApp/settings.py	/^import os$/;"	kind:namespace	line:13
+os	../MainApp/wsgi.py	/^import os$/;"	kind:namespace	line:10
+os	../manage.py	/^import os$/;"	kind:namespace	line:2
+os	../portfolio/wsgi.py	/^import os$/;"	kind:namespace	line:8
+path	../MainApp/urls.py	/^from django.urls import path$/;"	kind:namespace	line:17
+path	../portfolio/models.py	/^    path = models.CharField/;"	kind:variable	line:7
+render	../portfolio/views.py	/^from django.shortcuts import render$/;"	kind:namespace	line:1
+settings.py	../MainApp/settings.py	1;"	kind:file	line:1
+sys	../manage.py	/^import sys$/;"	kind:namespace	line:3
+tests.py	../portfolio/tests.py	1;"	kind:file	line:1
+urlpatterns	../MainApp/urls.py	/^urlpatterns = [$/;"	kind:variable	line:20
+urls.py	../MainApp/urls.py	1;"	kind:file	line:1
+views.py	../portfolio/views.py	1;"	kind:file	line:1
+wsgi.py	../MainApp/wsgi.py	1;"	kind:file	line:1
+wsgi.py	../portfolio/wsgi.py	1;"	kind:file	line:1
